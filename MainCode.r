@@ -85,3 +85,4 @@ View(computoeinegi)
 str(computoeinegi)
 computoeinegi$n_complejidad<-as.factor(computoeinegi$n_complejidad)
 
+Orale vato hice esto xd
